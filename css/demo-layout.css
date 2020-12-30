@@ -1,0 +1,13 @@
+@font-face{
+    src:url(/font/lato/Lato-Regular.ttf);
+    font-family: lato;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    font-family: lato,sans-serif;
+}
+
